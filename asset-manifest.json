@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fuse-time/static/css/main.cdfa67a0.css",
+    "main.js": "/fuse-time/static/js/main.ab58e221.js",
+    "index.html": "/fuse-time/index.html",
+    "main.cdfa67a0.css.map": "/fuse-time/static/css/main.cdfa67a0.css.map",
+    "main.ab58e221.js.map": "/fuse-time/static/js/main.ab58e221.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdfa67a0.css",
+    "static/js/main.ab58e221.js"
+  ]
+}
