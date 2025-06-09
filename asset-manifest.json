@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/fuse-time/static/css/main.e77bf6f2.css",
-    "main.js": "/fuse-time/static/js/main.9f2f9a6c.js",
-    "static/media/logo.gif": "/fuse-time/static/media/logo.7df920db288e93e1c2e4.gif",
+    "main.css": "/fuse-time/static/css/main.7e4ef477.css",
+    "main.js": "/fuse-time/static/js/main.b0b10b44.js",
+    "static/media/background.png": "/fuse-time/static/media/background.22b811cb2ccf8797eb8b.png",
+    "static/media/product.jpg": "/fuse-time/static/media/product.075157d3b69f3bfda050.jpg",
+    "static/media/electrical.jpg": "/fuse-time/static/media/electrical.e311f73a4129ba74357d.jpg",
+    "static/media/logo.png": "/fuse-time/static/media/logo.b96a1fc598a96fcdc98c.png",
+    "static/media/systemArch.png": "/fuse-time/static/media/systemArch.0999317e1cbcfc043e3a.png",
+    "static/media/stateMachine.png": "/fuse-time/static/media/stateMachine.8a5e76d712e40d092eb9.png",
     "index.html": "/fuse-time/index.html",
-    "main.e77bf6f2.css.map": "/fuse-time/static/css/main.e77bf6f2.css.map",
-    "main.9f2f9a6c.js.map": "/fuse-time/static/js/main.9f2f9a6c.js.map"
+    "main.7e4ef477.css.map": "/fuse-time/static/css/main.7e4ef477.css.map",
+    "main.b0b10b44.js.map": "/fuse-time/static/js/main.b0b10b44.js.map"
   },
   "entrypoints": [
-    "static/css/main.e77bf6f2.css",
-    "static/js/main.9f2f9a6c.js"
+    "static/css/main.7e4ef477.css",
+    "static/js/main.b0b10b44.js"
   ]
 }
